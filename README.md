@@ -40,7 +40,6 @@ Alternatively, you can run a single algorithm specifying the full class name
 ./gradlew run -Pmain=<algorithm-fully-qualified-class-name>
 
 ```
-
 For instance:
 
 ```
